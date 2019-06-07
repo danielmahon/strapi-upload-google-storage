@@ -1,6 +1,6 @@
 {
   "name": "strapi-upload-google-storage",
-  "version": "3.0.0-alpha.14.3",
+  "version": "3.0.0",
   "description": "Google Cloud Storage provider for strapi upload",
   "homepage": "http://strapi.io",
   "keywords": [
